@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="flex space-x-4">
             <a href="https://github.com/Arutik228" target="_blank" className="text-gray-400 hover:text-primary"><FaGithub size={20} /></a>
             <a href="https://t.me/@Arutik52" target="_blank" className="text-gray-400 hover:text-primary"><FaTelegram size={20} /></a>
-            <a href="mailto:arutiktopcik@mail.com" className="text-gray-400 hover:text-primary"><FaEnvelope size={20} /></a>
+            <a href="mailto:arutiktopcik@gmail.com" className="text-gray-400 hover:text-primary"><FaEnvelope size={20} /></a>
           </div>
         </div>
       </div>
