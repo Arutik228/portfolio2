@@ -303,7 +303,7 @@ export default function Home() {
             <div className="space-y-4">
               <a href="https://t.me/@Arutik52" target="_blank" className="flex items-center gap-4 p-4 bg-gray-800 rounded-xl hover:bg-gray-700 transition group"><FaTelegram className="text-2xl text-primary group-hover:scale-110" /><div><p className="text-sm text-gray-400">Telegram</p><p className="font-medium">@Arutik52</p></div></a>
               <a href="https://github.com/Arutik228" target="_blank" className="flex items-center gap-4 p-4 bg-gray-800 rounded-xl hover:bg-gray-700 transition group"><FaGithub className="text-2xl text-primary group-hover:scale-110" /><div><p className="text-sm text-gray-400">GitHub</p><p className="font-medium">Arutik228</p></div></a>
-              <a href="mailto:arutiktopcik@mail.com" className="flex items-center gap-4 p-4 bg-gray-800 rounded-xl hover:bg-gray-700 transition group"><FaEnvelope className="text-2xl text-primary group-hover:scale-110" /><div><p className="text-sm text-gray-400">Email</p><p className="font-medium">arutiktopcik@gmail.com</p></div></a>
+              <a href="mailto:arutiktopcik@gmail.com" className="flex items-center gap-4 p-4 bg-gray-800 rounded-xl hover:bg-gray-700 transition group"><FaEnvelope className="text-2xl text-primary group-hover:scale-110" /><div><p className="text-sm text-gray-400">Email</p><p className="font-medium">arutiktopcik@gmail.com</p></div></a>
             </div>
             <div className="bg-gray-800 p-6 rounded-xl">
               <h3 className="text-2xl font-bold mb-4">Напишите мне</h3>
