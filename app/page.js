@@ -163,10 +163,9 @@ export default function Home() {
                 <a href="#projects" className="px-6 py-3 border-2 border-primary text-primary rounded-lg font-semibold hover:bg-primary hover:text-white transition">Посмотреть проекты</a>
               </div>
               <div className="flex space-x-4">
-                <a href="https://github.com/arutyun" target="_blank" className="text-2xl text-gray-400 hover:text-primary"><FaGithub /></a>
-                <a href="https://t.me/arutyun" target="_blank" className="text-2xl text-gray-400 hover:text-primary"><FaTelegram /></a>
-                <a href="https://vk.com/arutyun" target="_blank" className="text-2xl text-gray-400 hover:text-primary"><FaVk /></a>
-                <a href="mailto:arutyun@example.com" className="text-2xl text-gray-400 hover:text-primary"><FaEnvelope /></a>
+                <a href="https://github.com/Arutik228" target="_blank" className="text-2xl text-gray-400 hover:text-primary"><FaGithub /></a>
+                <a href="https://t.me/@Arutik52" target="_blank" className="text-2xl text-gray-400 hover:text-primary"><FaTelegram /></a>
+                <a href="mailto:arutiktopcik@gmail.com" className="text-2xl text-gray-400 hover:text-primary"><FaEnvelope /></a>
               </div>
             </div>
             <div className="relative w-64 h-64 md:w-80 md:h-80 mx-auto">
